@@ -1,0 +1,14 @@
+{
+  "installed": {
+    "client_id": "507127028826-gqpeddmhommga9h17imdrj5tqpq9d6kv.apps.googleusercontent.com",
+    "project_id": "gdsyncpy",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "Hu-G2H2Xvt3mexnNMaieP7cx",
+    "redirect_uris": [
+      "urn:ietf:wg:oauth:2.0:oob",
+      "http://localhost"
+    ]
+  }
+}
