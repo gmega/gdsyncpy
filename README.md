@@ -1,8 +1,8 @@
-# gsyncpy 
+# gdsyncpy 
 A flexible file synchronization and deduplication tool for Google Drive.
 
 ## Introduction
-I wrote `gsyncpy` out of my frustration with Google Drive's Desktop client. I had a large collection of pictures
+I wrote `gdsyncpy` out of my frustration with Google Drive's Desktop client. I had a large collection of pictures
 laying around an old hard drive (over `15,000` of them), and needed to accomplish two simple tasks: 
 
 * *Backup.* If a picture was present on my hard drive (anywhere) but not on Google Drive (anywhere), then I wanted it 
