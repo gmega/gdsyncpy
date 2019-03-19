@@ -50,7 +50,7 @@ those would be copied into `/My Drive/Pictures/1.png` and `/My Drive/Pictures/2.
 because I did not care about the originating folder structure, I simply cared about making sure all pictures were backed
 up and visible in the Google Photos timeline. My albums were later organized using Google Photos.
 
-**N.B.** If the **sync** fails by any chance, you can always attempt to [Resume a Failed Sync]().
+**N.B.** If the **sync** fails by any chance, you can always attempt to [Resume a Failed Sync](#resume-a-failed-sync).
 
 ### Sync Caveats
 `gdsyncpy sync` works by comparing MD5 hashes. Since Google Drive does not provide MD5 hashes for all MIME types, 
