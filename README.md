@@ -172,7 +172,7 @@ Media files are taken to be any audio (e.g. `.mp3`), video (e.g. `.avi, .mov, .o
  and because I wanted to simply run `gdsyncpy` at the root of my hard drive and let it copy everything without 
  having to worry about it picking up lost spreadsheets and other nonsense.
  
-## Resuming a Failed Sync
+## Resume a Failed Sync
 
 When syncing a large file collection (e.g., thousands of pictures) you will almost certainly run into issues. Your 
 Wi-Fi will drop, someone will trip over your network cable, you'll experience a power outage, or `gdsyncpy` will crash
